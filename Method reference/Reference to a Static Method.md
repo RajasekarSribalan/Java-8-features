@@ -1,5 +1,6 @@
 ## Reference to a Static Method
 
+
 The following syntax can be used to shortened to code ***ContainingClass::staticMethodName***.
 
 **Let us see an example**
@@ -55,7 +56,9 @@ The above code makes a call to static method of Person class.To simplify the cod
 
 This looks more elegant and readable.
 
+
 **Let us see an example using Lambda**
+
 
 Usually we will declare the lambda expression he functional interface as below.
 
