@@ -1,4 +1,4 @@
-#Reference to a constructor
+# Reference to a constructor
 
 The following syntax can be used to refer to a contructor ***Class::new***.
 
