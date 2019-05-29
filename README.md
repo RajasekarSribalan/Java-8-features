@@ -13,8 +13,8 @@ Some of the most interesting new features in Java 8 are,
     
    * [Reference to a Static Method](https://github.com/RajasekarSribalan/Java-8-features/blob/master/Method%20reference/Reference%20to%20a%20Static%20Method.md)
    * [Reference to an Instance Method](https://github.com/RajasekarSribalan/Java-8-features/blob/master/Method%20reference/Reference%20to%20a%20Instance%20Method.md)
-   * Reference to an Instance Method of an Object of a Particular Type
-   * Reference to a Constructor
+   * [Reference to an Instance Method of an Object of a Particular Type]
+   * [Reference to a Constructor](https://github.com/RajasekarSribalan/Java-8-features/blob/master/Method%20reference/Reference%20to%20a%20constructor.md)
    
 **Creation of the Optional<T>**
 	
