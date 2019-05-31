@@ -23,4 +23,4 @@ Some of the most interesting new features in Java 8 are,
 
 **lambda expressions**
 
-**functional interfaces**
+**Functional interfaces** [Refer here](Functional Interface.md)
