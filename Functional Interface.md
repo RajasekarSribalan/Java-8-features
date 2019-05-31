@@ -38,7 +38,7 @@ public interface Animal
 
 The above is also a valid functional interface because it still has only one abstract method.Default and static methods are not considered because it has implemented in the interface itself.
 
-## @FunctionalInterface
+#### @FunctionalInterface
 
 ``@FunctionalInterface`` can be used to impose a rule on interface to have only one abstract method.
 
@@ -54,7 +54,7 @@ public interface Vehicle
 
 If more than one abstract method is declared,compiler will throw error `Invalid '@FunctionalInterface' annotation; Vehicle is not a functional interface`
 
-## Exisiting java functional interfaces
+#### Exisiting java functional interfaces
 
 1. Runnable
 2. Comparable
